@@ -1,7 +1,7 @@
-name: "Neolink"
-description: "Will run Neolink directly as Add-on in HAOS"
-version: "0.0.9"
-slug: "neolink"
+name: "Neolink pre-release"
+description: "Will run Neolink pre-release directly as Add-on in HAOS"
+version: "0.0.1"
+slug: "neolink-prerelease"
 init: false
 arch:
   - aarch64
