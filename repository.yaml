@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Home Assistant neolink pre-release repository
-url: 'https://github.com/schilea/hassos-neolink-prerelease'
+url: 'https://github.com/schilea/hassos-neolink-pre-release'
 maintainer: schilea
