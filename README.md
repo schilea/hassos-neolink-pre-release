@@ -1,5 +1,5 @@
 
-# Neolink 0.6.3-rc.1 Pre-release
+# Neolink 0.6.3-rc.2 Pre-release
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -9,7 +9,7 @@
 
 ## About
 
-This add-on is based on @dm82m work and allows you to run Neolink 0.6.3-rc.1 Pre-release directly on your HAOS instance. If you don't know Neolink you might not need this add-on. Details can be found [here](https://github.com/QuantumEntangledAndy/neolink). This add-on uses the Neolink fork of @QuantumEntangledAndy which also supports MQTT.
+This add-on is based on @dm82m work and allows you to run Neolink 0.6.3-rc.2 Pre-release directly on your HAOS instance. If you don't know Neolink you might not need this add-on. Details can be found [here](https://github.com/QuantumEntangledAndy/neolink). This add-on uses the Neolink fork of @QuantumEntangledAndy which also supports MQTT.
 
 ## Installation & Configuration
 
